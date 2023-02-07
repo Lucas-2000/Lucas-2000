@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">  
-<a href="www.instagram.com/lucasmarchesoni06" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="www.linkedin.com/in/lucasmarchesoni" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=Linkedin&logoColor=white"</a>
 </div>
   
 
