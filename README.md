@@ -32,8 +32,7 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=Spring&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=Javascript&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
